@@ -108,10 +108,16 @@ Features were normalized using L2 norm to bring all attributes to a comparable s
 
 ## Visualizations
 ### Dendrogram for Hierarchical Clustering:
-![Dendrogram](https://example.com/dendrogram.png)
+![Dendrogram](https://github.com/cliffordnwanna/CREDIT_CARD_CUSTOMER_SEGMENTATION/blob/main/IMAGES/Dendogram.png)
 
-### Cluster Scatter Plot for K-Means:
-![Cluster Plot](https://example.com/cluster-plot.png)
+### Cluster Scatter Plot for Hierarchical Clustering :
+![Hierarchical Clustering](https://github.com/cliffordnwanna/CREDIT_CARD_CUSTOMER_SEGMENTATION/blob/main/IMAGES/Hierarchical%20Clustering.png)
+
+### Elbow Point Graph
+![Elbow Point Graph](https://github.com/cliffordnwanna/CREDIT_CARD_CUSTOMER_SEGMENTATION/blob/main/IMAGES/Elbow%20Point%20Graph.png)
+
+### Visualization of clusters
+![Cluster Visualizations](https://github.com/cliffordnwanna/CREDIT_CARD_CUSTOMER_SEGMENTATION/blob/main/IMAGES/Visualzation%20of%20Clusters%20and%20Centroids.png)
 
 ---
 
@@ -146,6 +152,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) for d
 ## Contact Information
 For inquiries, please reach out:
 
-**Your Name**  
-*Email*: [your.email@example.com](mailto:your.email@example.com)  
-*LinkedIn*: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+**Clifford Nwanna**  
+*Email*: [nwannachumaclifford@gmail.com](mailto:nwannachumaclifford@gmail.com)  
+
