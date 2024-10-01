@@ -1,8 +1,5 @@
 # Credit Card Customer Segmentation using Clustering
 
-![Customer Segmentation](https://example.com/segmentation-image.png)  
-
-*Image Source: Unsplash*
 
 ## Table of Contents
 - [Project Overview](#project-overview)
