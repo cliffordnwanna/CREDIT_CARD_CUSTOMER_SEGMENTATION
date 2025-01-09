@@ -1,5 +1,6 @@
 # Credit Card Customer Segmentation using Clustering
 
+ ![BodyBalance AI](https://github.com/cliffordnwanna/CREDIT_CARD_CUSTOMER_SEGMENTATION/blob/raw/IMAGES/Visualzation%20of%20Clusters%20and%20Centroids.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
